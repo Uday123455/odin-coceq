@@ -1,0 +1,1 @@
+this is website where i explain the use of the equipments in famous game clash of clans.bye
