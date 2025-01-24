@@ -1,0 +1,19 @@
+h1,h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+   display: block;
+   margin: auto;
+   border: 5px;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgba(214, 161, 126, 0.979);
+}
+
+.center{
+    text-align: center;
+}
